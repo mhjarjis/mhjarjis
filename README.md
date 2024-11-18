@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Jarjis</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhjarjis&label=Profile%4444views&color=0e75b6&style=flat" alt="mhjarjis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhjarjis&label=Profile%20views&color=0e75b6&style=flat" alt="mhjarjis" /> </p>
 
 - 🔭 I’m currently working as a **Senior Software Engineer** at **BASIS**
 
