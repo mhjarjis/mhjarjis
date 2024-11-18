@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Jarjis</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhjarjis&label=Profile%20views&color=0e75b6&style=flat" alt="mhjarjis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhjarjis&label=Profile%4444views&color=0e75b6&style=flat" alt="mhjarjis" /> </p>
 
 - 🔭 I’m currently working as a **Senior Software Engineer** at **BASIS**
 
@@ -49,23 +49,4 @@ Outside of coding, I am an adventurer at heart. I love **reading**, **cycling**,
 <a href="https://twitter.com/mhjarjis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhjarjis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhjarjis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhjarjis" height="30" width="40" /></a>
 <a href="https://fb.com/mhjarjis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhjarjis" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</a> 
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" width="40" height="40"/> 
-</a> 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
-</a>
 </p>
