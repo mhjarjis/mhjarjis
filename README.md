@@ -48,5 +48,5 @@ Outside of coding, I am an adventurer at heart. I love **reading**, **cycling**,
 <p align="left">
 <a href="https://twitter.com/mhjarjis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhjarjis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhjarjis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhjarjis" height="30" width="40" /></a>
-<a href="https://fb.com/mhjarjis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhjarjis" height="30" width="40" /></a>
+<a href="https://fb.com/mhjarzis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhjarjis" height="30" width="40" /></a>
 </p>
