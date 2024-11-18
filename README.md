@@ -57,10 +57,10 @@ Outside of coding, I am an adventurer at heart. I love **reading**, **cycling**,
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhjarjis&show_icons=true&locale=en&layout=compact" alt="mhjarjis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhjarjis&show_icons=true&locale=en" alt="mhjarjis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarzis&show_icons=true&locale=en" alt="mhjarjis" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhjarjis&" alt="mhjarjis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarzis&" alt="mhjarjis" /></p>
 
 ---
 
