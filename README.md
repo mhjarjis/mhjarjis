@@ -63,7 +63,3 @@ Outside of coding, I am an adventurer at heart. I love **reading**, **cycling**,
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhjarjis&" alt="mhjarjis" /></p>
 
 ---
-
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
