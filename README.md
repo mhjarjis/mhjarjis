@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:22d3ee&height=220&section=header&text=Mehedi%20Hasan%20Jarjis&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Co-founder%20%26%20CTO%20%40%20Nexadev&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:22d3ee&height=220&section=header&text=Mehedi%20Hasan%20Jarjis&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20-%20Co-founder%20and%20CTO%20at%20Nexadev&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
   <a href="https://mhjarjis.tech">
