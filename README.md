@@ -1,65 +1,135 @@
-<h1 align="center">Hi 👋, This is Jarjis</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:22d3ee&height=220&section=header&text=Mehedi%20Hasan%20Jarjis&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Co-founder%20%26%20CTO%20%40%20Nexadev&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhjarjis&label=Profile%20views&color=0e75b6&style=flat" alt="mhjarjis" /> </p>
-
-- 🔭 I’m currently working as a **Senior Software Engineer** at **BASIS**
-
-- 💬 Ask me about **PHP, Laravel, Vue 3, Nuxt.js, Inertia.js, Livewire, Native PHP**
-
-- 📫 How to reach me **mhjarjis@gmail.com**
-
----
-
-### 💡 About Me  
-I am **Mehedi Hasan Jarjis**, a skilled and enthusiastic full-stack developer with over 7 years of professional experience. My journey in tech began on **March 6, 2017**, as a **Web Application Developer**, and since then, I have been deeply involved in developing innovative and impactful solutions.  
-
-Currently, I work as a **Senior Software Engineer** at **BASIS**, contributing to cutting-edge software projects that help streamline workflows and improve operational efficiency. My expertise spans a wide array of modern web technologies, including **PHP, Laravel, Vue 3, Nuxt.js, Inertia.js, Livewire**, and **Native PHP**.  
-
-I thrive on learning new skills and staying updated with the latest trends in technology. Whether it’s crafting complex backend systems or designing seamless user interfaces, I am committed to delivering exceptional quality in every project I undertake.  
-
-Outside of coding, I am an adventurer at heart. I love **reading**, **cycling**, **marathon running**, and exploring new challenges. These passions fuel my creativity and perseverance, both personally and professionally.  
-
----
-
-### 🎓 Educational Background  
-- **Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE)**  
-  Graduated in 2021 with a focus on software development, algorithms, and system design.  
-
----
-
-### 🏆 Career Highlights  
-- **Senior Software Engineer** at **BASIS**  
-  - Driving the development of enterprise-grade applications.  
-  - Innovating with modern tools and frameworks to deliver scalable and efficient solutions.  
-
-- **Career Journey**  
-  - Began my professional career in 2017 as a Web Application Developer.  
-  - Advanced to full-stack development, mastering technologies like Laravel, Vue.js, and Nuxt.js.  
-
-- **Expertise**  
-  - Backend: PHP (Laravel, CodeIgniter, Native PHP)  
-  - Frontend: Vue.js, Nuxt.js, Inertia.js, Livewire  
-  - DevOps: Docker, AWS, Git  
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mhjarjis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhjarjis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mhjarjis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhjarjis" height="30" width="40" /></a>
-<a href="https://fb.com/mhjarzis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhjarjis" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://mhjarjis.tech">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Jarjis+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Senior+Software+Engineer+%40+BASIS;Co-founder+%26+CTO+%40+Nexadev;Laravel+%E2%9D%A4%EF%B8%8F+Vue+%E2%9D%A4%EF%B8%8F+Nuxt+%E2%9D%A4%EF%B8%8F+Livewire;Shipping+web+apps+since+2017+%F0%9F%9A%80;Coder+by+day+%E2%80%A2+Marathoner+by+dawn+%F0%9F%8F%83" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://mhjarjis.tech"><img src="https://img.shields.io/badge/Website-mhjarjis.tech-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mhjarjis"><img src="https://img.shields.io/badge/LinkedIn-mhjarjis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/mhjarzis"><img src="https://img.shields.io/badge/X-@mhjarzis-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:mhjarjis@gmail.com"><img src="https://img.shields.io/badge/Email-mhjarjis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhjarjis&label=Profile%20views&color=6366f1&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coding%20since-2017-0f172a?style=flat-square" />
+</p>
 
 ---
 
+### 🧑‍💻 `whoami`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhjarjis&show_icons=true&locale=en&layout=compact" alt="mhjarjis" /></p>
+```php
+<?php
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhjarjis&show_icons=true&locale=en" alt="mhjarjis" /></p>
+namespace Bangladesh\Dhaka;
 
+class Jarjis extends FullStackDeveloper
+{
+    public string $name     = 'Mehedi Hasan Jarjis';
+    public array  $roles    = [
+        'Senior Software Engineer @ BASIS',
+        'Co-founder & CTO @ Nexadev',
+    ];
+    public string $since    = '2017-03-06'; // first line of production code 🎉
+    public string $degree   = 'B.Sc. in Computer Science & Engineering (2021)';
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhjarjis&" alt="mhjarjis" /></p>
+    public array $stack = [
+        'backend'  => ['PHP', 'Laravel', 'CodeIgniter', 'Livewire', 'REST APIs'],
+        'frontend' => ['Vue 3', 'Nuxt.js', 'Inertia.js', 'TypeScript', 'Tailwind CSS'],
+        'devops'   => ['Docker', 'AWS', 'Git'],
+        'data'     => ['MySQL'],
+    ];
+
+    public array $offline = ['📚 reading', '🚴 cycling', '🏃 marathon running'];
+
+    public function motto(): string
+    {
+        return 'Clean code. Scalable architecture. Ship it. Then run 42km.';
+    }
+}
+```
 
 ---
+
+### 🛣️ The Journey So Far
+
+```text
+2017 ──●── Wrote my first production app as a Web Application Developer
+       │
+       ├── Levelled up into full-stack: Laravel ⇄ Vue.js ⇄ Nuxt.js
+       │
+2021 ──●── Graduated — B.Sc. in Computer Science & Engineering 🎓
+       │
+       ├── Senior Software Engineer @ BASIS
+       │     └─ building enterprise-grade platforms that streamline workflows
+       │
+now  ──●── Co-founder & CTO @ Nexadev
+             └─ turning ideas into modern web apps & rock-solid REST APIs 🚀
+```
+
+---
+
+### 🧰 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,nuxtjs,ts,js,html,css,tailwind&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,docker,aws,git,github&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NativePHP-4F46E5?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-22d3ee?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### ⚡ What I Bring to the Table
+
+| 🏗️ Architecture | 🎨 Interfaces | 🚀 Delivery |
+|:---|:---|:---|
+| Scalable Laravel backends & clean, well-tested REST APIs | Snappy SPAs & SSR apps with Vue 3, Nuxt & Inertia | Dockerized workflows & AWS deployments |
+| Domain-driven, maintainable code that survives growth | Reactive UIs with Livewire — no JS fatigue | 9+ years of shipping real products to real users |
+
+---
+
+### 📊 GitHub in Numbers
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhjarjis&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhjarjis&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhjarjis&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mhjarjis&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏃 Beyond the Keyboard
+
+> I'm an adventurer at heart. When I'm not refactoring a controller, you'll find me with a book,
+> on a bicycle, or chasing the next marathon finish line. Long runs taught me the same thing
+> long projects do: **pace yourself, stay consistent, and finish strong.**
+
+---
+
+<p align="center">
+  <b>💬 Ask me about</b> PHP, Laravel, Vue 3, Nuxt.js, Inertia.js, Livewire & Native PHP
+  <br/>
+  <b>🤝 Let's build something great together — my inbox is always open.</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:0f172a&height=120&section=footer" width="100%" />
